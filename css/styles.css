@@ -30,6 +30,7 @@ body {
 .logo:hover,
 .logo:focus {
   color: var(--OCEAN);
+  width: 44px;
 }
 
 .part-of-logo {
@@ -73,3 +74,43 @@ body {
 }
 
 /* rules for main content */
+
+/* hero content section */
+
+.hero-image-section-container {
+  background-color: var(--NAVY-BLUE);
+}
+
+.hero-image-header {
+  color: var(--WHITE, #fff);
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+}
+
+.hero-image-button {
+  border-radius: 4px;
+  border-radius: 4px;
+  background: var(--IRIS, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  color: var(--WHITE, #fff);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  cursor: pointer;
+}
+/* section one styles , webstudio qualities */
+
+.first-section-list {
+  list-style-type: none;
+}
+.first-quality-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px; /* 120% */
+  letter-spacing: 0.4px;
+}
