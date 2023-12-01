@@ -27,11 +27,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.logo:hover,
-.logo:focus {
-  color: var(--OCEAN);
-}
-
 .part-of-logo {
   color: var(--IRIS);
 }
@@ -306,7 +301,7 @@ body {
 
 /* footer section */
 
-.footer-section-container {
+.footer-container {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 
@@ -330,3 +325,53 @@ body {
 }
 
 /* ./PORTOFOLIO.HTML */
+
+/* section one, the list of buttons */
+
+.sec-one-list-of-buttons {
+  list-style-type: none;
+}
+
+.sec-one-button {
+  background-color: var(--CLOUD);
+  color: var(--IRIS);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%; /* 150% */
+  letter-spacing: 0.64px;
+  text-align: center;
+}
+
+.sec-one-button-one {
+  background-color: var(--OCEAN);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
+    0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
+  color: var(--WHITE, #fff);
+  text-align: center;
+}
+
+/* section two, the list of portfolio projects */
+
+.list-of-projects-sec-two {
+  list-style-type: none;
+}
+
+.project-container {
+  background-color: var(--WHITE, #fff);
+}
+
+.project-header {
+  color: var(--NAVY-BLUE);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.project-description {
+  color: var(--SLATE, #434455);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%; /* 150% */
+  letter-spacing: 0.32px;
+}
