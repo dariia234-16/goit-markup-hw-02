@@ -21,7 +21,7 @@ body {
   color: var(--IRIS);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.7; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
   font-family: "Raleway", sans-serif;
 }
