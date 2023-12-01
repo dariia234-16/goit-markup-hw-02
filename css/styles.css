@@ -65,6 +65,7 @@ body {
   line-height: 150%; /* 150% */
   letter-spacing: 0.32px;
   text-decoration: none;
+  font-style: normal;
 }
 
 .address-link:hover,
