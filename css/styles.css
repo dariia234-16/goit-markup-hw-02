@@ -98,6 +98,7 @@ body {
   line-height: 150%; /* 150% */
   letter-spacing: 0.64px;
   cursor: pointer;
+  font-family: "Roboto", sans-serif;
 }
 
 .hero-image-button:hover,
@@ -292,16 +293,8 @@ body {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 
-.logo-footer {
+.part-of-logo-footer {
   color: var(--CLOUD);
-  color: var(--CLOUD, #f4f4fd);
-  font-family: "Raleway";
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 116.667%; /* 116.667% */
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-  text-decoration: none;
 }
 
 .footer-additional-description {
