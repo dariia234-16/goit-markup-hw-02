@@ -109,7 +109,9 @@ body {
 /* section one styles , webstudio qualities */
 
 .first-section-header {
+  display: none;
 }
+
 .first-section-list {
   list-style-type: none;
 }
@@ -171,3 +173,160 @@ body {
   line-height: 150%; /* 150% */
   letter-spacing: 0.32px;
 }
+
+/* section two : What are we doing */
+
+.section-two-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 111.111%; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.sec-two-image-list {
+  list-style-type: none;
+}
+/* section three: Our team */
+
+.section-three-container {
+  background-color: var(--CLOUD, #f4f4fd);
+}
+
+.section-three-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 111.111%; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.sec-three-members-list {
+  list-style-type: none;
+}
+
+.first-member-container {
+  background-color: var(--WHITE, #fff);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.first-member-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.first-member-description {
+  color: var(--SLATE);
+  text-align: center;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.32px;
+}
+.second-member-container {
+  background-color: var(--WHITE, #fff);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.second-member-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.second-member-description {
+  color: var(--SLATE);
+  text-align: center;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.32px;
+}
+
+.third-member-container {
+  background-color: var(--WHITE, #fff);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.third-member-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.third-member-description {
+  color: var(--SLATE);
+  text-align: center;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.32px;
+}
+
+.fourth-member-container {
+  background-color: var(--WHITE, #fff);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.fourth-member-header {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.fourth-member-description {
+  color: var(--SLATE, #434455);
+  text-align: center;
+  font-size: 16px;
+  line-height: 150%; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+/* footer section */
+
+.footer-section-container {
+  background-color: var(--NAVY-BLUE, #2e2f42);
+}
+
+.logo-footer {
+  color: var(--CLOUD);
+  color: var(--CLOUD, #f4f4fd);
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 116.667%; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.footer-additional-description {
+  color: var(--CLOUD, #f4f4fd);
+  font-size: 16px;
+  line-height: 150%; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+/* ./PORTOFOLIO.HTML */
