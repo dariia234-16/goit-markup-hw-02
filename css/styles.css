@@ -330,6 +330,7 @@ body {
 }
 .sec-one-button-one {
   background-color: var(--OCEAN);
+  color: var(--WHITE);
   text-align: center;
 }
 
