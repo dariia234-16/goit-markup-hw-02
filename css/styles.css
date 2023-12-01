@@ -340,6 +340,7 @@ body {
   line-height: 150%; /* 150% */
   letter-spacing: 0.64px;
   text-align: center;
+  cursor: pointer;
 }
 
 .sec-one-button:hover,
