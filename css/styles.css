@@ -220,7 +220,7 @@ body {
   letter-spacing: 0.64px;
   text-align: center;
   cursor: pointer;
-  font-family:"Roboto", sans-serif'
+  font-family: "Roboto", sans-serif;
 }
 
 .sec-one-button:hover,
@@ -228,7 +228,6 @@ body {
   background-color: var(--OCEAN);
   color: var(--WHITE);
 }
-
 
 /*list of portfolio projects */
 
