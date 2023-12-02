@@ -228,11 +228,7 @@ body {
   background-color: var(--OCEAN);
   color: var(--WHITE);
 }
-.sec-one-button-one {
-  background-color: var(--OCEAN);
-  color: var(--WHITE);
-  text-align: center;
-}
+
 
 /*list of portfolio projects */
 
