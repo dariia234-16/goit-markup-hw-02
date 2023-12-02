@@ -205,7 +205,7 @@ body {
 
 /* ./PORTOFOLIO.HTML */
 
-/* section one, the list of buttons */
+/* the list of buttons */
 
 .sec-one-list-of-buttons {
   list-style-type: none;
@@ -233,7 +233,7 @@ body {
   text-align: center;
 }
 
-/* section two, the list of portfolio projects */
+/*list of portfolio projects */
 
 .list-of-projects-sec-two {
   list-style-type: none;
